@@ -34,9 +34,10 @@ MEDI AR addresses the challenges of:
 
 ## 🎥 Video Demo
 
-[![Alt text](https://img.youtube.com/vi/G8Ybz08LRoA/0.jpg)](https://youtu.be/G8Ybz08LRoA)
+[![Alt text](https://img.youtube.com/vi/9m-pyqrKR6w/0.jpg)](https://youtu.be/9m-pyqrKR6w)
 
 Click the image above to watch a demo showcasing MEDI AR's healthcare-focused AR and AI solutions in action.
+
 
 ## 🚀 Installation
 
