@@ -26,7 +26,7 @@ MEDI AR addresses the challenges of:
 | Technology | Description |
 |------------|-------------|
 | ![Unity](https://img.shields.io/badge/Unity-3D%20Development-blue?style=flat-square&logo=unity) | Builds immersive 3D environments and AR experiences to visualize healthcare data. |
-| ![Vuforia](https://img.shields.io/badge/Vuforia-AR%20Platform-green?style=flat-square&logo=vuforia) | Provides AR tracking and rendering capabilities for real-time healthcare insights. |
+| ! | Provides AR tracking and rendering capabilities for real-time healthcare insights. |
 | ![C#](https://img.shields.io/badge/C%23-Scripting-orange?style=flat-square&logo=c-sharp) | Powers the interactivity within Unity for healthcare-related features. |
 | ![Blender](https://img.shields.io/badge/Blender-3D%20Modeling-yellow?style=flat-square&logo=blender) | Creates detailed 3D medical models for visualization in AR. |
 | ![Firebase](https://img.shields.io/badge/Firebase-Backend%20Support-red?style=flat-square&logo=firebase) | Backend infrastructure for data management and healthcare analytics. |
